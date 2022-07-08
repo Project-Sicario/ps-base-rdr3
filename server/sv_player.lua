@@ -1,0 +1,2 @@
+PSBase.Players = {}
+PSBase.Player = {}
